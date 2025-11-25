@@ -14,7 +14,7 @@ TOKEN = "886484638:AAGobE1VHxOLlhqRXIK1SV9zlMLEXZdvCyo"
 SOURCE_CHANNEL = -1001276269509  # source channel ID
 
 TARGETS = {
-    -1001703093158: {"https://t.me/captainadilfakhri": "https://t.me/captkingmaker"},
+    -1001287624885: {"https://t.me/captainadilfakhri": "https://t.me/captkingmaker"},
     -1001360694193: {
         "https://t.me/captainadilfakhri": "https://t.me/TFDCEOBSA",
         "https://example.com/old": "https://example.com/newB"
